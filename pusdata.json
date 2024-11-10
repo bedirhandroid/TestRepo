@@ -1,152 +1,158 @@
-[{
+[
+  {
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"https://i.hizliresim.com/5mvhiv1.png",
+  "description":"Oyun içerisinde silah ve zırhları upgrade işlemi yaparken başarılı olma olasılığını yükseltir.",
+  "price":800
+},{
+  "name":"Shadow Piece",
+  "url":"https://i.hizliresim.com/qp7hxxl.png",
+  "description":"Silah ve zırh yapımında şansınızı %30 oranında arttırır.",
+  "price":959
+},{
+  "name":"Dragon’s Wing",
+  "url":"https://wiki.korehberi.com/images/1/1a/Itemicon_8_1016_40_0.png",
+  "description":"Karakteriniz için HP +300, DEF +50, EXP +9%, NP +3 özelliklerinden birini seçebilirsiniz.",
+  "price":899
+},{
+  "name":"Premium Potion HP",
+  "url":"https://i.hizliresim.com/Gy8bl2.jpg",
+  "description":"İçerisinde 5000 adet 720 HP pot bulunan taşınabilir bir pakettir.",
+  "price":192
+},{
+  "name":"Premium Potion MP",
+  "url":"https://i.hizliresim.com/d7y4mX.jpg",
+  "description":"çerisinde 5000 adet 1920 MP pot bulunan taşınabilir bir pakettir.",
+  "price":192
+},{
+  "name":"Genie Hammer",
+  "url":"https://i.hizliresim.com/jQkzmm.jpg",
+  "description":"Genie kullanırken eşyalarınızı tamir etmek için kullanabilirsiniz.",
+  "price":99
+},{
+  "name":"Clan Name",
+  "url":"https://i.hizliresim.com/lbaBlJ.jpg",
+  "description":"Klan ismini değiştirmek için kullanılır. Hemes isimli NPC aracılığıyla kullanabilirsiniz.",
+  "price":399
+},{
+  "name":"Special Monster Staff",
+  "url":"https://i.hizliresim.com/rJlYP3.jpg",
+  "description":"Skill bara koyarak kullanabilirsiniz ve yanınıza bir yaratık ışınlanır. Işınlanan yaratığı kestiğinizde farklı hediyeler kazanma şansınız vardır. Ayrıca yaratığa öldüğünüzde deneyim puanı kaybetmezsiniz.",
+  "price":240
+},{
+  "name":"Gender Change",
+  "url":"https://i.hizliresim.com/a1OP42.jpg",
+  "description":"Karakterinizin cinsiyetini değiştirmek için kullanabilirsiniz.",
+  "price":749
+},{
+  "name":"Dragon Scale",
+  "url":"https://i.hizliresim.com/9DJpX8.jpg",
+  "description":"Old takıları normale çevirmede kullanılır ve %30 oranında şansınızı arttırır.",
+  "price":400
+},{
+  "name":"Menicias Official List Coupon",
+  "url":"https://i.hizliresim.com/Manl9k.jpg",
+  "description":"Moradon bölgesinde alış/satış pazarlarını kontrol etmenize yarar.",
+  "price":360
+},{
+  "name":"Clan Contribution",
+  "url":"https://i.hizliresim.com/yz7nA7.jpg",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 },{
   "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
-  "price":800
-},{
-  "name":"Trina",
-  "url":"https://i.hizliresim.com/8skfzvl.png",
-  "description":"Bu Eşya + basma başarı yüzdesini arttırır.",
+  "url":"xxxxxxxx",
+  "description":"xxxx",
   "price":800
 }
 ]
