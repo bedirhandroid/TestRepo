@@ -1,12 +1,6 @@
 {
     "data": [
         {
-            "name": "Dragon’s Wing",
-            "url": "https://i.hizliresim.com/kia64fa.png",
-            "description": "Karakteriniz için HP +300, DEF +50, EXP +9%, NP +3 özelliklerinden birini seçebilirsiniz.",
-            "price": 899
-        },
-        {
             "name": "Premium Potion HP",
             "url": "https://i.hizliresim.com/Gy8bl2.jpg",
             "description": "İçerisinde 5000 adet 720 HP pot bulunan taşınabilir bir pakettir.",
