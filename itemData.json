@@ -1,0 +1,53 @@
+{
+    "data": [
+    {
+        "itemName": "Sword of Power",
+        "nickName": "Warrior123",
+        "serverName": "Server1",
+        "gameName": "Rise Online",
+        "sellingPrice": 100,
+        "imageUrl": "https://example.com/images/sword_of_power.jpg"
+    },
+    {
+        "itemName": "Shield of Valor",
+        "nickName": "Defender456",
+        "serverName": "Server2",
+        "gameName": "Knight Online",
+        "sellingPrice": 150,
+        "imageUrl": "https://example.com/images/shield_of_valor.jpg"
+    },
+    {
+        "itemName": "Magic Wand",
+        "nickName": "Mage789",
+        "serverName": "Server3",
+        "gameName": "Rise Online",
+        "sellingPrice": 200,
+        "imageUrl": "https://example.com/images/magic_wand.jpg"
+    },
+    {
+        "itemName": "Dragon Armor",
+        "nickName": "Knight321",
+        "serverName": "Server4",
+        "gameName": "Knight Online",
+        "sellingPrice": 300,
+        "imageUrl": "https://example.com/images/dragon_armor.jpg"
+    },
+    {
+        "itemName": "Healing Potion",
+        "nickName": "Healer654",
+        "serverName": "Server5",
+        "gameName": "Rise Online",
+        "sellingPrice": 50,
+        "imageUrl": "https://example.com/images/healing_potion.jpg"
+    },
+    {
+        "itemName": "Bow of Destiny",
+        "nickName": "Archer987",
+        "serverName": "Server6",
+        "gameName": "Knight Online",
+        "sellingPrice": 250,
+        "imageUrl": "https://example.com/images/bow_of_destiny.jpg"
+    }
+]
+
+}
