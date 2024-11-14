@@ -1,52 +1,76 @@
 {
     "data": [
     {
-        "itemName": "Sword of Power",
-        "nickName": "Warrior123",
-        "serverName": "Server1",
-        "gameName": "Rise Online",
-        "sellingPrice": 100,
-        "imageUrl": "https://example.com/images/sword_of_power.jpg"
+        "itemName": "Ruler of the legend - White Tiger",
+        "nickName": "MATADOR",
+        "serverName": "Agartha",
+        "gameName": "Knight",
+        "sellingPrice": 16000,
+        "imageUrl": "https://i.hizliresim.com/cjusq72.png"
     },
     {
-        "itemName": "Shield of Valor",
-        "nickName": "Defender456",
-        "serverName": "Server2",
-        "gameName": "Knight Online",
-        "sellingPrice": 150,
-        "imageUrl": "https://example.com/images/shield_of_valor.jpg"
+        "itemName": "Minotaur's Earring +1",
+        "nickName": "KnightMan",
+        "serverName": "Zero",
+        "gameName": "Knight",
+        "sellingPrice": 1999,
+        "imageUrl": "https://i.hizliresim.com/cdp6gb0.png"
     },
     {
-        "itemName": "Magic Wand",
-        "nickName": "Mage789",
-        "serverName": "Server3",
-        "gameName": "Rise Online",
-        "sellingPrice": 200,
-        "imageUrl": "https://example.com/images/magic_wand.jpg"
+        "itemName": "White Dragon Necklace +1",
+        "nickName": "otto",
+        "serverName": "Minark",
+        "gameName": "Knight",
+        "sellingPrice": 2900,
+        "imageUrl": "https://i.hizliresim.com/57igvwn.png"
     },
     {
-        "itemName": "Dragon Armor",
-        "nickName": "Knight321",
-        "serverName": "Server4",
-        "gameName": "Knight Online",
-        "sellingPrice": 300,
-        "imageUrl": "https://example.com/images/dragon_armor.jpg"
+        "itemName": "Dread Shield +1",
+        "nickName": "NoBDStopMe",
+        "serverName": "Minark",
+        "gameName": "Knight",
+        "sellingPrice": 480,
+        "imageUrl": "https://i.hizliresim.com/gxt424z.png"
     },
     {
-        "itemName": "Healing Potion",
-        "nickName": "Healer654",
-        "serverName": "Server5",
-        "gameName": "Rise Online",
-        "sellingPrice": 50,
-        "imageUrl": "https://example.com/images/healing_potion.jpg"
+        "itemName": "Raptor +11 (Reverse)",
+        "nickName": "XxXHarbyWarriorXxX",
+        "serverName": "Pandora",
+        "gameName": "Rise",
+        "sellingPrice": 3580,
+        "imageUrl": "https://i.hizliresim.com/buaml2k.png"
     },
     {
-        "itemName": "Bow of Destiny",
-        "nickName": "Archer987",
-        "serverName": "Server6",
-        "gameName": "Knight Online",
-        "sellingPrice": 250,
-        "imageUrl": "https://example.com/images/bow_of_destiny.jpg"
+        "itemName": "Tormentor (+8)",
+        "nickName": "MickyMert",
+        "serverName": "Aarvad",
+        "gameName": "Rise",
+        "sellingPrice": 17800,
+        "imageUrl": "https://i.hizliresim.com/aisw1yq.png"
+    },
+    {
+        "itemName": "Celestial Anklet of Wisdom D.D.D",
+        "nickName": "TwiSTedFaTe",
+        "serverName": "Galia",
+        "gameName": "Rise",
+        "sellingPrice": 9999,
+        "imageUrl": "https://i.hizliresim.com/sth0qp7.png"
+    },
+    {
+        "itemName": "Stormbringer (+7.3)",
+        "nickName": "LeonidasKing",
+        "serverName": "Mantis",
+        "gameName": "Rise",
+        "sellingPrice": 8650,
+        "imageUrl": "https://i.hizliresim.com/lrcev1o.png"
+    },
+    {
+        "itemName": "Earthshaker (+8.1)",
+        "nickName": "SRTPriestB",
+        "serverName": "Aarvad",
+        "gameName": "Rise",
+        "sellingPrice": 1200,
+        "imageUrl": "https://i.hizliresim.com/nghqeaq.png"
     }
 ]
 
