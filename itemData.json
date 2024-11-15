@@ -14,7 +14,6 @@
             "bonusAttack":"%3",
             "bonusHp":120,
             "bonusMp":120,
-            "bonusNp":"+3 Per Kill",
             "type":"Unique Weapon",
             "class":"Rogue"
          }
@@ -33,7 +32,6 @@
             "bonusAttack":"%3",
             "bonusHp":120,
             "bonusMp":120,
-            "bonusNp":"+3 Per Kill",
             "type":"Unique Weapon",
             "class":"Rogue"
          }
@@ -52,7 +50,6 @@
             "bonusAttack":"%3",
             "bonusHp":120,
             "bonusMp":120,
-            "bonusNp":"+3 Per Kill",
             "type":"Unique Weapon",
             "class":"Rogue"
          }
@@ -71,7 +68,6 @@
             "bonusAttack":"%3",
             "bonusHp":120,
             "bonusMp":120,
-            "bonusNp":"+3 Per Kill",
             "type":"Unique Weapon",
             "class":"Rogue"
          }
@@ -90,7 +86,6 @@
             "bonusAttack":"%3",
             "bonusHp":120,
             "bonusMp":120,
-            "bonusNp":"+3 Per Kill",
             "type":"Unique Weapon",
             "class":"Rogue"
          }
