@@ -1,77 +1,171 @@
 {
-    "data": [
-    {
-        "itemName": "Ruler of the legend - White Tiger",
-        "nickName": "MATADOR",
-        "serverName": "Agartha",
-        "gameName": "Knight",
-        "sellingPrice": 16000,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-151.png"
-    },
-    {
-        "itemName": "Minotaur's Earring +1",
-        "nickName": "KnightMan",
-        "serverName": "Zero",
-        "gameName": "Knight",
-        "sellingPrice": 1999,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-62.png"
-    },
-    {
-        "itemName": "White Dragon Necklace +1",
-        "nickName": "otto",
-        "serverName": "Minark",
-        "gameName": "Knight",
-        "sellingPrice": 2900,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-291.png"
-    },
-    {
-        "itemName": "Dread Shield +1 (Reverse)",
-        "nickName": "NoBDStopMe",
-        "serverName": "Minark",
-        "gameName": "Knight",
-        "sellingPrice": 480,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-30.png"
-    },
-    {
-        "itemName": "Raptor +11 (Reverse)",
-        "nickName": "XxXHarbyWarriorXxX",
-        "serverName": "Pandora",
-        "gameName": "Knight",
-        "sellingPrice": 3580,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-95.png"
-    },
-    {
-        "itemName": "Tormentor (+8)",
-        "nickName": "MickyMert",
-        "serverName": "Aarvad",
-        "gameName": "Rise",
-        "sellingPrice": 17800,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-0.png"
-    },
-    {
-        "itemName": "Celestial Anklet of Wisdom D.D.D",
-        "nickName": "TwiSTedFaTe",
-        "serverName": "Galia",
-        "gameName": "Rise",
-        "sellingPrice": 9999,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-77.png"
-    },
-    {
-        "itemName": "Stormbringer (+7.3)",
-        "nickName": "LeonidasKing",
-        "serverName": "Mantis",
-        "gameName": "Rise",
-        "sellingPrice": 8650,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-270.png"
-    },
-    {
-        "itemName": "Earthshaker (+8.1)",
-        "nickName": "SRTPriestB",
-        "serverName": "Aarvad",
-        "gameName": "Rise",
-        "sellingPrice": 1200,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-245.png"
-    }
-]
-
+   "data":[
+      {
+         "itemName":"Ruler of the legend - White Tiger",
+         "nickName":"MATADOR",
+         "serverName":"Agartha",
+         "gameName":"Knight",
+         "sellingPrice":16000,
+         "imageUrl":"https://cdn.bynogame.com/ko-item-icons/icon-151.png",
+         "properties":{
+            "attackDamage":130,
+            "damageType":"Flame 170",
+            "defence":0,
+            "bonusAttack":"%3",
+            "bonusHp":120,
+            "bonusMp":120,
+            "bonusNp":"+3 Per Kill",
+            "type":"Unique Weapon",
+            "class":"Rogue"
+         }
+      },
+      {
+         "itemName":"Minotaur's Earring +1",
+         "nickName":"KnightMan",
+         "serverName":"Zero",
+         "gameName":"Knight",
+         "sellingPrice":1999,
+         "imageUrl":"https://cdn.bynogame.com/ko-item-icons/icon-62.png",
+         "properties":{
+            "attackDamage":130,
+            "damageType":null,
+            "defence":0,
+            "bonusAttack":"%3",
+            "bonusHp":120,
+            "bonusMp":120,
+            "bonusNp":"+3 Per Kill",
+            "type":"Unique Weapon",
+            "class":"Rogue"
+         }
+      },
+      {
+         "itemName":"White Dragon Necklace +1",
+         "nickName":"otto",
+         "serverName":"Minark",
+         "gameName":"Knight",
+         "sellingPrice":2900,
+         "imageUrl":"https://cdn.bynogame.com/ko-item-icons/icon-291.png",
+         "properties":{
+            "attackDamage":130,
+            "defence":0,
+            "damageType":null,
+            "bonusAttack":"%3",
+            "bonusHp":120,
+            "bonusMp":120,
+            "bonusNp":"+3 Per Kill",
+            "type":"Unique Weapon",
+            "class":"Rogue"
+         }
+      },
+      {
+         "itemName":"Dread Shield +1 (Reverse)",
+         "nickName":"NoBDStopMe",
+         "serverName":"Minark",
+         "gameName":"Knight",
+         "sellingPrice":480,
+         "imageUrl":"https://cdn.bynogame.com/ko-item-icons/icon-30.png",
+         "properties":{
+            "attackDamage":130,
+            "damageType":null,
+            "defence":0,
+            "bonusAttack":"%3",
+            "bonusHp":120,
+            "bonusMp":120,
+            "bonusNp":"+3 Per Kill",
+            "type":"Unique Weapon",
+            "class":"Rogue"
+         }
+      },
+      {
+         "itemName":"Raptor +11 (Reverse)",
+         "nickName":"XxXHarbyWarriorXxX",
+         "serverName":"Pandora",
+         "gameName":"Knight",
+         "sellingPrice":3580,
+         "imageUrl":"https://cdn.bynogame.com/ko-item-icons/icon-95.png",
+         "properties":{
+            "attackDamage":130,
+            "damageType":"Posion 90",
+            "defence":0,
+            "bonusAttack":"%3",
+            "bonusHp":120,
+            "bonusMp":120,
+            "bonusNp":"+3 Per Kill",
+            "type":"Unique Weapon",
+            "class":"Rogue"
+         }
+      },
+      {
+         "itemName":"Tormentor (+8)",
+         "nickName":"MickyMert",
+         "serverName":"Aarvad",
+         "gameName":"Rise",
+         "sellingPrice":17800,
+         "imageUrl":"https://cdn.bynogame.com/ko-item-icons/icon-0.png",
+         "properties":{
+            "attackDamage":199,
+            "damageType":"Posion 170",
+            "defence":0,
+            "bonusAttack":"%5",
+            "bonusHp":240,
+            "bonusMp":240,
+            "type":"Unique Weapon",
+            "class":"Warrior, Priest"
+         }
+      },
+      {
+         "itemName":"Celestial Anklet of Wisdom D.D.D",
+         "nickName":"TwiSTedFaTe",
+         "serverName":"Galia",
+         "gameName":"Rise",
+         "sellingPrice":9999,
+         "imageUrl":"https://cdn.bynogame.com/ko-item-icons/icon-77.png",
+         "properties":{
+            "attackDamage":0,
+            "damageType":null,
+            "defence":50,
+            "bonusAttack":"%3",
+            "bonusHp":300,
+            "bonusMp":300,
+            "type":"Unique Accessory",
+            "class":"All Classes"
+         }
+      },
+      {
+         "itemName":"Stormbringer (+7.3)",
+         "nickName":"LeonidasKing",
+         "serverName":"Mantis",
+         "gameName":"Rise",
+         "sellingPrice":1650,
+         "imageUrl":"https://cdn.bynogame.com/ko-item-icons/icon-270.png",
+         "properties":{
+            "attackDamage":161,
+            "damageType":"Fire 80",
+            "defence":0,
+            "bonusAttack":"%0",
+            "bonusHp":80,
+            "bonusMp":80,
+            "type":"Unique Weapon",
+            "class":"Priest, Warrior"
+         }
+      },
+      {
+         "itemName":"Earthshaker (+8.1)",
+         "nickName":"SRTPriestB",
+         "serverName":"Aarvad",
+         "gameName":"Rise",
+         "sellingPrice":8200,
+         "imageUrl":"https://cdn.bynogame.com/ko-item-icons/icon-245.png",
+         "properties":{
+            "attackDamage":172,
+            "damageType":"Lighting 120",
+            "defence":0,
+            "bonusAttack":"%3",
+            "bonusHp":120,
+            "bonusMp":120,
+            "type":"Unique Weapon",
+            "class":"Priest, Warrior"
+         }
+      }
+   ]
 }
