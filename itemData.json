@@ -6,7 +6,7 @@
         "serverName": "Agartha",
         "gameName": "Knight",
         "sellingPrice": 16000,
-        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-0.png"
+        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-151.png"
     },
     {
         "itemName": "Minotaur's Earring +1",
@@ -14,7 +14,7 @@
         "serverName": "Zero",
         "gameName": "Knight",
         "sellingPrice": 1999,
-        "imageUrl": "https://i.hizliresim.com/cdp6gb0.png"
+        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-62.png"
     },
     {
         "itemName": "White Dragon Necklace +1",
@@ -22,10 +22,10 @@
         "serverName": "Minark",
         "gameName": "Knight",
         "sellingPrice": 2900,
-        "imageUrl": "https://i.hizliresim.com/57igvwn.png"
+        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-291.png"
     },
     {
-        "itemName": "Dread Shield +1",
+        "itemName": "Dread Shield +1 (Reverse)",
         "nickName": "NoBDStopMe",
         "serverName": "Minark",
         "gameName": "Knight",
@@ -38,7 +38,7 @@
         "serverName": "Pandora",
         "gameName": "Knight",
         "sellingPrice": 3580,
-        "imageUrl": "https://i.hizliresim.com/buaml2k.png"
+        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-95.png"
     },
     {
         "itemName": "Tormentor (+8)",
@@ -46,7 +46,7 @@
         "serverName": "Aarvad",
         "gameName": "Rise",
         "sellingPrice": 17800,
-        "imageUrl": "https://i.hizliresim.com/aisw1yq.png"
+        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-0.png"
     },
     {
         "itemName": "Celestial Anklet of Wisdom D.D.D",
@@ -54,7 +54,7 @@
         "serverName": "Galia",
         "gameName": "Rise",
         "sellingPrice": 9999,
-        "imageUrl": "https://i.hizliresim.com/sth0qp7.png"
+        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-77.png"
     },
     {
         "itemName": "Stormbringer (+7.3)",
@@ -62,7 +62,7 @@
         "serverName": "Mantis",
         "gameName": "Rise",
         "sellingPrice": 8650,
-        "imageUrl": "https://i.hizliresim.com/lrcev1o.png"
+        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-270.png"
     },
     {
         "itemName": "Earthshaker (+8.1)",
@@ -70,7 +70,7 @@
         "serverName": "Aarvad",
         "gameName": "Rise",
         "sellingPrice": 1200,
-        "imageUrl": "https://i.hizliresim.com/nghqeaq.png"
+        "imageUrl": "https://cdn.bynogame.com/ko-item-icons/icon-245.png"
     }
 ]
 
