@@ -2,37 +2,37 @@
     "data": [
         {
             "name": "Premium Potion HP",
-            "url": "https://i.hizliresim.com/Gy8bl2.jpg",
-            "description": "İçerisinde 5000 adet 720 HP pot bulunan taşınabilir bir pakettir.",
+            "url": "https://images.riseonlineworld.com/uploads/mega-hp2.png",
+            "description": "İçerisinde 1000 adet 720 HP pot bulunan taşınabilir bir pakettir.",
             "price": 192
         },
         {
             "name": "Premium Potion MP",
-            "url": "https://i.hizliresim.com/d7y4mX.jpg",
-            "description": "çerisinde 5000 adet 1920 MP pot bulunan taşınabilir bir pakettir.",
+            "url": "https://images.riseonlineworld.com/uploads/mega-mp2.png",
+            "description": "çerisinde 1000 adet 1920 MP pot bulunan taşınabilir bir pakettir.",
             "price": 192
         },
         {
             "name": "Genie Hammer",
-            "url": "https://i.hizliresim.com/jQkzmm.jpg",
+            "url": "https://images.riseonlineworld.com/uploads/repairhammers.png",
             "description": "Genie kullanırken eşyalarınızı tamir etmek için kullanabilirsiniz.",
             "price": 99
         },
         {
             "name": "Clan Name",
-            "url": "https://i.hizliresim.com/lbaBlJ.jpg",
+            "url": "https://images.riseonlineworld.com/uploads/test.png",
             "description": "Klan ismini değiştirmek için kullanılır. Hemes isimli NPC aracılığıyla kullanabilirsiniz.",
             "price": 399
         },
         {
             "name": "Special Monster Staff",
-            "url": "https://i.hizliresim.com/rJlYP3.jpg",
+            "url": "https://images.riseonlineworld.com/uploads/33070003.png",
             "description": "Skill bara koyarak kullanabilirsiniz ve yanınıza bir yaratık ışınlanır. Işınlanan yaratığı kestiğinizde farklı hediyeler kazanma şansınız vardır. Ayrıca yaratığa öldüğünüzde deneyim puanı kaybetmezsiniz.",
             "price": 240
         },
         {
             "name": "Gender Change",
-            "url": "https://i.hizliresim.com/a1OP42.jpg",
+            "url": "https://images.riseonlineworld.com/uploads/faction-change-scroll2.png",
             "description": "Karakterinizin cinsiyetini değiştirmek için kullanabilirsiniz.",
             "price": 749
         },
@@ -44,13 +44,13 @@
         },
         {
             "name": "Menicias Official List Coupon",
-            "url": "https://i.hizliresim.com/Manl9k.jpg",
+            "url": "https://images.riseonlineworld.com/uploads/38904600.png",
             "description": "Moradon bölgesinde alış/satış pazarlarını kontrol etmenize yarar.",
             "price": 360
         },
         {
             "name": "Clan Contribution Certificate",
-            "url": "https://i.hizliresim.com/lbazyl.jpg",
+            "url": "https://images.riseonlineworld.com/uploads/battle-premium.png",
             "description": "Klana bağışladığınız tüm Nation Point’i klandan ayrılırken alabilmenizi sağlar.",
             "price": 1040
         },
