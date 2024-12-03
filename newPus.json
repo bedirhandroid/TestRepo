@@ -1,6 +1,12 @@
 {
     "data": [
         {
+            "name": "Trina",
+            "url": "https://i.hizliresim.com/2k223xi.png",
+            "description": "Oyun içerisinde silah ve zırhları upgrade işlemi yaparken başarılı olma olasılığını yükseltir.",
+            "price": 800
+        },
+        {
             "name": "Premium Potion HP",
             "url": "https://i.hizliresim.com/Gy8bl2.jpg",
             "description": "İçerisinde 5000 adet 720 HP pot bulunan taşınabilir bir pakettir.",
