@@ -1,1 +1,7 @@
-{"isNewScreen": false, "versionCode": "1.1", "forceUpdate": false}
+{
+  "isNewScreen": false, 
+  "versionCode": "1.1", 
+  "forceUpdate": false, 
+  "androidLink": "https://www.google.com/", 
+  "iosLink": "https://yandex.com/"
+}
