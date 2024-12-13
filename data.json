@@ -1,8 +1,8 @@
 {
-  "isNewScreen": true,
+  "isNewScreen": false,
   "versionCode": "1.1",
   "forceUpdate": false,
-  "reviewVersionCode": "1.1",
+  "reviewVersionCode": "1.2",
   "systemVersionCode": "1.1",
   "inReview": true,
   "androidLink": "https://www.google.com/",
