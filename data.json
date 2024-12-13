@@ -1,7 +1,8 @@
 {
-  "isNewScreen": false, 
-  "versionCode": "1.1", 
-  "forceUpdate": false, 
-  "androidLink": "https://www.google.com/", 
+  "isNewScreen": false,
+  "versionCode": "1.1",
+  "forceUpdate": false,
+  "reviewVersionCode": "1.2",
+  "androidLink": "https://www.google.com/",
   "iosLink": "https://apps.apple.com/app/id6738509501"
 }
