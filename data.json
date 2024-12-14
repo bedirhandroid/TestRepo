@@ -1,10 +1,10 @@
 {
-  "isNewScreen": false,
+  "isNewScreen": true,
   "versionCode": "1.1",
   "forceUpdate": false,
-  "reviewVersionCode": "1.2",
+  "reviewVersionCode": "1.1",
   "systemVersionCode": "1.1",
-  "inReview": true,
+  "inReview": false,
   "androidLink": "https://play.google.com/store/apps/details?id=com.bedirhandroid.mmopazar",
   "iosLink": "https://apps.apple.com/app/id6738509501"
 }
