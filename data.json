@@ -1,11 +1,12 @@
 {
-  "isNewScreen": false,
   "versionCode": "1.1",
-  "forceUpdate": false,
-  "reviewVersionCode": "1.2",
   "systemVersionCode": "1.1",
-  "inReview": true,
-  "androidLink": "https://play.google.com/store/apps/details?id=com.bedirhandroid.mmopazar",
+  "forceUpdate": false,
+  "androidForceUpdate": true,
+  "iosForceUpdate": true,
+  "minimumAndroidVersion": "1.1",
+  "minimumIosVersion": "1.1",
+  "androidLink": "https://www.google.com/",
   "iosLink": "https://apps.apple.com/app/id6738509501",
   "serverBannerActive": true
 }
