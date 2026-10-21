@@ -8,5 +8,5 @@
   "minimumIosVersion": "1.1",
   "androidLink": "https://www.google.com/",
   "iosLink": "https://apps.apple.com/app/id6738509501",
-  "serverBannerActive": true
+  "serverBannerActive": false
 }
