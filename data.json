@@ -1,11 +1,11 @@
 {
-  "versionCode": "1.1",
-  "systemVersionCode": "1.1",
-  "forceUpdate": false,
-  "androidForceUpdate": true,
+  "versionCode": "1.4",
+  "systemVersionCode": "1.4",
+  "forceUpdate": true,
+  "androidForceUpdate": false,
   "iosForceUpdate": true,
-  "minimumAndroidVersion": "1.1",
-  "minimumIosVersion": "1.1",
+  "minimumAndroidVersion": "1.4",
+  "minimumIosVersion": "1.4",
   "androidLink": "https://www.google.com/",
   "iosLink": "https://apps.apple.com/app/id6738509501",
   "serverBannerActive": true
