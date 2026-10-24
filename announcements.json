@@ -1,6 +1,14 @@
 {
   "announcements": [
     {
+      "id": "error",
+      "active": true,
+      "imageUrl": "https://mmopazar.app/assets/logo.png",
+      "title": "MMOPazar’a hoş geldin",
+      "desc": "Teknik bir arıza nedeniyle şu an hizmet veremiyoruz. En kısa sürede çözülecektir. Beta kapsamında böyle şeylerin olmasını bekliyorduk. Siz de bir hata ile karşılaşırsanız bize ulaşmaktan çekinmeyin. info@mmopazar.app",
+      "url": "https://mmopazar.app"
+    },
+    {
       "id": "welcome",
       "active": true,
       "imageUrl": "https://mmopazar.app/assets/logo.png",
