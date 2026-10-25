@@ -1,11 +1,11 @@
 {
-  "versionCode": "1.8",
-  "systemVersionCode": "1.8",
+  "versionCode": "1.9",
+  "systemVersionCode": "1.9",
   "forceUpdate": true,
   "androidForceUpdate": true,
   "iosForceUpdate": true,
-  "minimumAndroidVersion": "1.8",
-  "minimumIosVersion": "1.8",
+  "minimumAndroidVersion": "1.9",
+  "minimumIosVersion": "1.9",
   "androidLink": "https://play.google.com/store/apps/details?id=com.bedirhandroid.mmobazaar",
   "iosLink": "https://apps.apple.com/app/id6738509501",
   "serverBannerActive": true
